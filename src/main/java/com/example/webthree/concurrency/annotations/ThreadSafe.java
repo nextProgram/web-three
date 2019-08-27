@@ -1,4 +1,4 @@
-package com.example.webthree.concurrency.annotation;
+package com.example.webthree.concurrency.annotations;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
