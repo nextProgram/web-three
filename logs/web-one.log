@@ -1,116 +1,255 @@
-2019-08-27 14:03:43.117  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 14:03:43.117  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 14:03:44.542  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 14:03:44.573  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 14:03:45.116  WARN 32 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : Unable to start LiveReload server
-2019-08-27 14:03:45.257  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 2.596 seconds (JVM running for 6.617)
-2019-08-27 15:07:30.502  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 15:07:30.502  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 15:07:31.008  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 15:07:31.010  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 15:07:31.271  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.826 seconds (JVM running for 3832.619)
-2019-08-27 16:10:06.160  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:10:06.160  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:10:06.565  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:10:06.566  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:10:06.766  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.644 seconds (JVM running for 7588.114)
-2019-08-27 16:10:16.427  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:10:16.427  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:10:16.660  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:10:16.661  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:10:16.761  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.419 seconds (JVM running for 7598.109)
-2019-08-27 16:10:37.385  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:10:37.385  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:10:37.587  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:10:37.588  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:10:37.705  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.345 seconds (JVM running for 7619.053)
-2019-08-27 16:11:13.521  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:11:13.522  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:11:13.820  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:11:13.821  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:11:13.917  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.468 seconds (JVM running for 7655.266)
-2019-08-27 16:11:21.499  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:11:21.500  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:11:21.702  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:11:21.703  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:11:21.799  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.327 seconds (JVM running for 7663.148)
-2019-08-27 16:11:36.429  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:11:36.429  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:11:36.627  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:11:36.629  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:11:36.784  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.38 seconds (JVM running for 7678.132)
-2019-08-27 16:12:35.954  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:12:35.955  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:12:36.279  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:12:36.280  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:12:36.389  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.461 seconds (JVM running for 7737.738)
-2019-08-27 16:12:44.027  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:12:44.027  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:12:44.322  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:12:44.323  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:12:44.415  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.418 seconds (JVM running for 7745.763)
-2019-08-27 16:13:26.613  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:13:26.614  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:13:26.844  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:13:26.845  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:13:26.941  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.362 seconds (JVM running for 7788.289)
-2019-08-27 16:13:50.585  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:13:50.586  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:13:50.880  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:13:50.888  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:13:51.021  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.469 seconds (JVM running for 7812.369)
-2019-08-27 16:15:48.246  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:15:48.247  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:15:48.453  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:15:48.455  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:15:48.550  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.327 seconds (JVM running for 7929.898)
-2019-08-27 16:15:54.070  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:15:54.070  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:15:54.282  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:15:54.283  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:15:54.373  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.33 seconds (JVM running for 7935.722)
-2019-08-27 16:15:57.278  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:15:57.278  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:15:57.528  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:15:57.530  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:15:57.642  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.391 seconds (JVM running for 7938.989)
-2019-08-27 16:16:15.251  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:16:15.252  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:16:15.438  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:16:15.438  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:16:15.614  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.391 seconds (JVM running for 7956.962)
-2019-08-27 16:16:27.275  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:16:27.276  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:16:27.471  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:16:27.473  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:16:27.565  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.315 seconds (JVM running for 7968.913)
-2019-08-27 16:16:44.174  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:16:44.174  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:16:44.429  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:16:44.430  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:16:44.546  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.435 seconds (JVM running for 7985.894)
-2019-08-27 16:16:49.116  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:16:49.116  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:16:49.367  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:16:49.368  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:16:49.503  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.412 seconds (JVM running for 7990.851)
-2019-08-27 16:16:51.011  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:16:51.011  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:16:51.279  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:16:51.279  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:16:51.371  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.384 seconds (JVM running for 7992.719)
-2019-08-27 16:17:05.973  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:17:05.973  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:17:06.176  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:17:06.177  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:17:06.272  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.325 seconds (JVM running for 8007.62)
-2019-08-27 16:17:30.014  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:17:30.015  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:17:30.384  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:17:30.389  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:17:30.637  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.7 seconds (JVM running for 8031.985)
-2019-08-27 16:17:35.157  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
-2019-08-27 16:17:35.158  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
-2019-08-27 16:17:35.371  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
-2019-08-27 16:17:35.373  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
-2019-08-27 16:17:35.496  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.368 seconds (JVM running for 8036.845)
+2019-08-28 10:50:02.168  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:50:02.186  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:50:02.733  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:50:02.734  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:50:02.845  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.72 seconds (JVM running for 74808.465)
+2019-08-28 10:50:36.618  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:50:36.618  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:50:36.800  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:50:36.801  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:50:36.893  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.298 seconds (JVM running for 74842.512)
+2019-08-28 10:50:53.548  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:50:53.549  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:50:53.778  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:50:53.779  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:50:53.875  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.356 seconds (JVM running for 74859.495)
+2019-08-28 10:51:07.620  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:51:07.620  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:51:07.798  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:51:07.798  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:51:07.878  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.28 seconds (JVM running for 74873.498)
+2019-08-28 10:51:16.442  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:51:16.442  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:51:16.609  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:51:16.610  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:51:16.687  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.267 seconds (JVM running for 74882.306)
+2019-08-28 10:53:53.644  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:53:53.645  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:53:53.824  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:53:53.826  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:53:53.900  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.277 seconds (JVM running for 75039.52)
+2019-08-28 10:55:17.226  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:55:17.226  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:55:17.413  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:55:17.414  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:55:17.496  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.296 seconds (JVM running for 75123.116)
+2019-08-28 10:59:12.225  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:59:12.225  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:59:12.613  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:59:12.615  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:59:12.775  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.591 seconds (JVM running for 75358.394)
+2019-08-28 10:59:41.406  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 10:59:41.406  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 10:59:41.642  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 10:59:41.643  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 10:59:41.745  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.368 seconds (JVM running for 75387.364)
+2019-08-28 11:00:01.321  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:00:01.321  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:00:01.554  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:00:01.555  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:00:01.671  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.374 seconds (JVM running for 75407.29)
+2019-08-28 11:00:25.274  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:00:25.274  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:00:25.513  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:00:25.514  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:00:25.670  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.424 seconds (JVM running for 75431.289)
+2019-08-28 11:00:32.329  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:00:32.329  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:00:32.673  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:00:32.674  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:00:32.945  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.648 seconds (JVM running for 75438.565)
+2019-08-28 11:00:42.090  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:00:42.091  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:00:42.328  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:00:42.330  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:00:42.462  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.471 seconds (JVM running for 75448.081)
+2019-08-28 11:00:48.138  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:00:48.139  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:00:48.420  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:00:48.421  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:00:48.740  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.721 seconds (JVM running for 75454.359)
+2019-08-28 11:00:55.269  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:00:55.269  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:00:55.673  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:00:55.674  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:00:55.897  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.663 seconds (JVM running for 75461.517)
+2019-08-28 11:01:13.584  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:01:13.584  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:01:13.870  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:01:13.873  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:01:14.011  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.512 seconds (JVM running for 75479.631)
+2019-08-28 11:01:17.511  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:01:17.511  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:01:17.749  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:01:17.750  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:01:17.860  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.378 seconds (JVM running for 75483.479)
+2019-08-28 11:19:06.992  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:19:06.992  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:19:07.335  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:19:07.336  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:19:07.535  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.569 seconds (JVM running for 76553.154)
+2019-08-28 11:19:18.117  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:19:18.118  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:19:18.338  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:19:18.339  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:19:18.589  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.496 seconds (JVM running for 76564.208)
+2019-08-28 11:19:22.145  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:19:22.145  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:19:22.388  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:19:22.389  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:19:22.500  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.387 seconds (JVM running for 76568.119)
+2019-08-28 11:19:39.173  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:19:39.173  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:19:39.413  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:19:39.414  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:19:39.518  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.369 seconds (JVM running for 76585.137)
+2019-08-28 11:20:04.211  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:20:04.212  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:20:04.673  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:20:04.675  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:20:04.818  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.654 seconds (JVM running for 76610.438)
+2019-08-28 11:20:25.361  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:20:25.362  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:20:25.604  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:20:25.605  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:20:25.704  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.367 seconds (JVM running for 76631.323)
+2019-08-28 11:20:32.266  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:20:32.266  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:20:32.535  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:20:32.536  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:20:32.660  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.425 seconds (JVM running for 76638.28)
+2019-08-28 11:20:38.170  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:20:38.170  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:20:38.471  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:20:38.472  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:20:38.573  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.437 seconds (JVM running for 76644.192)
+2019-08-28 11:21:05.160  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:21:05.161  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:21:05.600  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:21:05.601  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:21:05.705  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.575 seconds (JVM running for 76671.324)
+2019-08-28 11:21:15.336  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:21:15.336  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:21:15.561  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:21:15.562  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:21:15.670  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.36 seconds (JVM running for 76681.29)
+2019-08-28 11:21:33.512  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:21:33.512  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:21:33.778  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:21:33.779  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:21:33.880  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.392 seconds (JVM running for 76699.499)
+2019-08-28 11:21:49.658  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:21:49.658  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:21:49.885  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:21:49.886  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:21:49.997  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.368 seconds (JVM running for 76715.616)
+2019-08-28 11:22:00.536  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:22:00.536  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:22:00.765  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:22:00.766  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:22:00.873  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.37 seconds (JVM running for 76726.492)
+2019-08-28 11:22:20.746  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:22:20.747  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:22:21.204  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:22:21.205  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:22:21.321  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.605 seconds (JVM running for 76746.94)
+2019-08-28 11:22:34.048  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:22:34.049  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:22:34.337  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:22:34.338  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:22:34.486  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.466 seconds (JVM running for 76760.105)
+2019-08-28 11:22:40.090  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:22:40.091  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:22:40.335  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:22:40.336  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:22:40.440  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.379 seconds (JVM running for 76766.059)
+2019-08-28 11:22:53.233  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:22:53.233  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:22:53.479  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:22:53.480  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:22:53.592  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.386 seconds (JVM running for 76779.211)
+2019-08-28 11:22:56.078  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:22:56.079  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:22:56.314  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:22:56.315  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:22:56.418  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.366 seconds (JVM running for 76782.037)
+2019-08-28 11:23:16.662  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:23:16.663  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:23:16.966  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:23:16.967  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:23:17.088  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.461 seconds (JVM running for 76802.707)
+2019-08-28 11:23:23.970  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:23:23.971  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:23:24.218  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:23:24.220  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:23:24.318  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.374 seconds (JVM running for 76809.938)
+2019-08-28 11:23:32.940  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:23:32.941  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:23:33.233  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:23:33.235  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:23:33.351  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.445 seconds (JVM running for 76818.971)
+2019-08-28 11:23:39.293  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:23:39.294  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:23:39.586  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:23:39.587  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:23:39.707  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.444 seconds (JVM running for 76825.326)
+2019-08-28 11:25:09.411  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:25:09.411  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:25:09.692  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:25:09.693  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:25:09.803  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.415 seconds (JVM running for 76915.422)
+2019-08-28 11:25:22.569  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:25:22.569  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:25:22.855  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:25:22.856  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:25:22.989  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.461 seconds (JVM running for 76928.609)
+2019-08-28 11:25:25.563  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:25:25.563  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:25:25.851  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:25:25.852  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:25:25.969  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.444 seconds (JVM running for 76931.588)
+2019-08-28 11:25:37.654  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:25:37.654  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:25:37.903  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:25:37.904  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:25:38.006  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.379 seconds (JVM running for 76943.625)
+2019-08-28 11:25:43.800  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:25:43.801  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:25:44.275  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:25:44.277  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:25:44.429  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.672 seconds (JVM running for 76950.048)
+2019-08-28 11:25:52.034  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:25:52.034  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:25:52.270  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:25:52.271  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:25:52.399  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.397 seconds (JVM running for 76958.019)
+2019-08-28 11:26:19.218  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:26:19.218  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:26:19.587  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:26:19.588  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:26:19.705  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.53 seconds (JVM running for 76985.324)
+2019-08-28 11:26:21.192  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:26:21.192  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:26:21.468  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:26:21.470  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:26:21.599  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.436 seconds (JVM running for 76987.218)
+2019-08-28 11:26:23.175  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:26:23.176  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:26:23.523  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:26:23.524  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:26:23.647  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.503 seconds (JVM running for 76989.267)
+2019-08-28 11:27:21.941  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:27:21.941  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:27:22.279  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:27:22.281  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:27:22.386  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.571 seconds (JVM running for 77048.005)
+2019-08-28 11:28:04.197  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:28:04.198  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:28:04.515  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:28:04.516  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:28:04.628  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.455 seconds (JVM running for 77090.247)
+2019-08-28 11:28:32.461  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Starting WebThreeApplication on LHX-NU9C1JM with PID 32 (C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three\target\classes started by lhx in C:\WorkspaceForJob\SPRINGBOOT\IdeaProjects\web-three)
+2019-08-28 11:28:32.461  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : No active profile set, falling back to default profiles: default
+2019-08-28 11:28:32.990  WARN 32 --- [restartedMain] io.undertow.websockets.jsr               : UT026010: Buffer pool was not set on WebSocketDeploymentInfo, the default pool will be used
+2019-08-28 11:28:32.991  INFO 32 --- [restartedMain] io.undertow.servlet                      : Initializing Spring embedded WebApplicationContext
+2019-08-28 11:28:33.161  INFO 32 --- [restartedMain] c.example.webthree.WebThreeApplication   : Started WebThreeApplication in 0.733 seconds (JVM running for 77118.78)
