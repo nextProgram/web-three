@@ -21,7 +21,7 @@ import java.util.concurrent.atomic.LongAdder;
     //要先安装lombook插件再引入lombook依赖
 @Slf4j
 @ThreadSafe
-public class AtomicExample4 {
+public class AtomicReferenceNote {
 
     private static AtomicReference<Integer> count = new AtomicReference<>(0);
 

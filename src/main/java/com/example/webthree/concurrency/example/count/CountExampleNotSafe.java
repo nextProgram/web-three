@@ -17,7 +17,7 @@ import java.util.concurrent.Semaphore;
     //要先安装lombook插件再引入lombook依赖
 @Slf4j
 @NotThreadSafe
-public class CountExample1 {
+public class CountExampleNotSafe {
     //请求总数
     public static int clientTotal = 5000;
 
