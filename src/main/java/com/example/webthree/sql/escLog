@@ -1,0 +1,11 @@
+CREATE TABLE LOG_ESC{
+LOG_ID  varchar2(22) comment '日志编号' NOT NULL,
+LOG_USER  varchar2(22) comment '日志记录人',
+OP_TIME  date comment '操作时间',
+OP_TYPE  varchar2(20) comment '操作类型（A添加U更新D删除）',
+CONTENT  varchar2(4000) comment '日志内容',
+MODEL_ID  varchar2(100) comment '日志所属模块',
+METHOD_NAME  varchar2(100) comment '日志产生的方法',
+OP_LEVEL  varchar2(8) comment '日志级别',
+primary key (LOG_ID)
+}

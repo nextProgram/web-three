@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<messages xmlns="http://www.springframework.org/schema/messagecode"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://www.springframework.org/schema/messagecode messagecode.xsd">
+    <!--1:只用在业务日志 0：操作人 1：操作模块 2：操作功能 3：/操作信息，包括操作内容的关键信息以及异常信息-->
+    <message code="COMM_OPT_LOG" modelname="操作成功" type="error">
+        操作:OP_USER:[{}],MODEL_ID:[{}],OPT_TYPE:[{}],OPT_INFO:[{}]
+    </message>
+    <!--2：只用在Controller层返回码定制-->
+    <message code="MSG_S" modelname="公共信息" type="info">操作成功</message>
+    <message code="MSG_F" modelname="公共信息" type="error">操作失败</message>
+    <message code="MSG_E" modelname="公共信息" type="error">发生未知错误，请联系管理员！</message>
+    <!--3:系统日志模板，信息模板格式如下：
+    code为模板编码，全局唯一，且格式必须为：模块名_操作类型_操作结果,否则出现找不到消息码时会使用COMMON_MSG_O_S,COMMON_MSG_O_E来进行匹配
+        操作类型如下：A 添加，U 修改，D 删除，I 导入，E 导出，Q 查询，O 其它
+        操作结果如下：S 正常，E 异常
+    modelname为模板名称，无要求
+    type：原则上记录信息级别，info、error作为预留字段
+    -->
+    <!--公共日志模板不能删-->
+    <message code="COMMON_MSG_O_S">操作成功:{}!</message>
+    <message code="COMMON_MSG_O_E">操作失败:{}!</message>
+    <!--用户登录-->
+    <message code="LOGIN_O_S" modelname="用户登录" type="info">用户登录成功，登录用户:{},登录IP:{},登录时间:{}</message>
+    <message code="LOGIN_O_E" modelname="用户登录" type="error">用户登录失败，登录用户:{},登录IP:{},登录时间:{},异常:{}</message>
+    <message code="LOGIN_WRONG_NAME_OR_PASSWORD" modelname="用户登录" type="error">错误的用户名或密码！</message>
+    <message code="LOGIN_UASP_VALID_FAILED" modelname="用户登录" type="error">单点登录验证失败！</message>
+    <!--密码修改-->
+    <message code="CHANGE_PASS_NO_LOG_IN" modelname="修改密码" type="error">用户未登录！</message>
+    <message code="CHANGE_PASS_EMPTY_PASSWORD" modelname="修改密码" type="error">旧密码或新密码为空！</message>
+    <message code="CHANGE_PASS_WRONG_PASSWORD" modelname="修改密码" type="error">旧密码错误！</message>
+    <!--用户管理模板,可根据情况自行增加-->
+    <message code="USR_U_S" modelname="用户管理" type="info">修改用户成功，[用户信息:{},返回码:{}]</message>
+    <message code="USR_U_E" modelname="用户管理" type="error">修改用户失败，[用户信息:{},返回码:{}]</message>
+    <message code="USR_IS_NULL" modelname="用户管理" type="info">用户信息为空！</message>
+    <message code="USR_NO_USER" modelname="用户管理" type="info">用户不存在！</message>
+    <message code="USR_ID_CARD_NOT_VALID" modelname="用户管理" type="info">身份信息不合法！</message>
+    <message code="USR_CAN_NOT_DELETE_SELF" modelname="用户管理" type="info">不能删除自己！</message>
+    <!--缓存模板-->
+    <message code="CACH_VERSION_WRONG" modelname="缓存管理" type="error">当前缓存版本为旧版本，执行缓存版本升级！</message>
+    <message code="CACH_VERSION_UPDATE" modelname="缓存管理" type="error">刷新缓存！</message>
+    <!--数据绿色通道-->
+    <message code=" DATAGREEN_Q_S" modelname="绿色通道" type="info">执行{}成功！</message>
+    <message code=" DATAGREEN_Q_E" modelname="绿色通道" type="error">执行{}失败:{}</message>
+</messages>

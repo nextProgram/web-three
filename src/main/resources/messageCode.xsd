@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<msg:schema targetNamespace="http://www.springframework.org/schema/messagecode"
+            xmlns:msg="http://www.w3.org/2001/XMLSchema">
+    <msg:element name="messages" type="msgType"/>
+    <msg:element name="message" type="msgDetaiType"/>
+
+    <msg:complexType name="msgType">
+        <msg:sequence>
+            <msg:element ref="message"/>
+        </msg:sequence>
+    </msg:complexType>
+
+    <msg:complexType name="msgDetaiType">
+        <msg:attribute name="code" type="msg:string"/>
+        <msg:attribute name="modelname" type="msg:string"/>
+        <msg:attribute name="type" type="msg:string"/>
+    </msg:complexType>
+</msg:schema>
